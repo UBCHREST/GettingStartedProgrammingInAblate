@@ -1,0 +1,2 @@
+# Getting Started Programming in ABLATE
+This repo serves as a template for the project repository outlined in the [Getting Started Programming in ABLATE](https://github.com/UBCHREST/GettingStartedProgrammingInAblate/wiki) step-by-step guide.
