@@ -22,7 +22,7 @@ title: Getting Started ABLATE
 description: >- # this means to ignore newlines until "baseurl:"
   Step-by-step guide for getting started in programming in ablate.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://coding.ablate.dev/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coding.ablate.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  UBCHREST
 
 # Build settings
