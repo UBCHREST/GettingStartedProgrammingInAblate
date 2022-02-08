@@ -18,4 +18,4 @@ Complete the following tutorials:
   
 **Goals**
 1. Implement the C Array and Pointer Examples provided by [Programiz.com C Array and Pointer Examples](https://www.programiz.com/c-programming/c-pointer-examples).
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.

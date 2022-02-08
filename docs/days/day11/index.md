@@ -9,4 +9,4 @@ Day 11 (hours 19, 20, 21) is another grab-bag day covering topics from linked li
 
 **Goals**
 1. Complete activities for Hours 19, 20 and 21.
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.

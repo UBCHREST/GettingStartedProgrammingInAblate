@@ -16,4 +16,4 @@ Smart Pointer Tutorial:
 **Goals**
 1. Complete activities for Hour 23 and 24.
 2. Update the SimpleEvent Program from day12 to replace all raw pointers with smart pointers.  There should be no new/delete keywords left.
-3. Commit these activities and push to your private Getting Started Repo.
+3. Commit these activities and push to your private CodingAblate Repo.

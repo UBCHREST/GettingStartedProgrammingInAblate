@@ -9,4 +9,4 @@ Day 8 dives back into _C++ in 24 Hours_ for an introduction into c++ references 
 
 **Goals**
 1. Complete activities for Hours 12 and 13.
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.

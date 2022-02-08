@@ -12,7 +12,7 @@ Complete the [Learn Git Branching](https://learngitbranching.js.org) interactive
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0dkvuC8MzPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Goals**
-1. Use the [Getting Started Repo](https://github.com/UBCHREST/GettingStartedProgrammingInAblate) template to create your own repo.  This is done with the _Use this Template_ button on the [Getting Started Repo Page](https://github.com/UBCHREST/GettingStartedProgrammingInAblate).
+1. Use the [CodingAblate Repo Template](https://github.com/UBCHREST/codingAblate) to create your own repo.  This is done with the _Use this Template_ button on the [CodingAblate Repo Template](https://github.com/UBCHREST/codingAblate).
   ![templateImage.png](templateImage.png)
 2. Download [CLion](https://www.jetbrains.com/clion/) and signup for an academic account (if applicable).
     - If using Windows, it is recommended that CLion be installed under/launched from Ubuntu using WSL2.  Step-by-step installation directions for WSL2 can be found in [Microsoft's Site](https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps).  Then install CLion under Ubuntu using the linux install directions.

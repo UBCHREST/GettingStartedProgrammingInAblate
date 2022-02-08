@@ -9,4 +9,4 @@ Day 10 (hours 16, 17, 18) covers the important aspects of object-oriented progra
 
 **Goals**
 1. Complete activities for Hours 16, 17, & 18.
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.

@@ -9,4 +9,4 @@ Pointers and memory management are fundamental to programming in C/C++.  A good 
 
 **Goals**
 1. Complete activities for Hours 10 and 11.
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.

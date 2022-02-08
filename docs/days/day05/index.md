@@ -9,4 +9,4 @@ The fifth day introduces the concept of classes in hours 8 and 9.  Day 8 introdu
 
 **Goals**
 1. Complete activities for Hours 8 and 9.
-2. Commit these activities and push to your private Getting Started Repo.
+2. Commit these activities and push to your private CodingAblate Repo.
