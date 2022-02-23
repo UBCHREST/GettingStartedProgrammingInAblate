@@ -10,7 +10,7 @@ This is where a lot of what you have learned comes together and stats to be appl
 You can run PETSc code directly in CLion, but you need to tell CMakeLists.txt where to find the PETSc libraries. If you built PETSc following the directions at [ABLATE specific directions](https://ablate.dev/content/development/InstallingDependencies.html#install-petsc) it should be simple to update the CMakeLists.txt file.  To check run ```echo $PKG_CONFIG_PATH``` in your terminal and make sure that the output directory includes the file ```PETSc.pc```.  
 
 1. Add the following to the top of your CMakeLists.txt file (right after cmake_minimum_required).  This insures that the same compiler is being used for PETSc and your code. 
-   ```bash
+   ```cmake
    find_package(PkgConfig REQUIRED)
 
    # Check if a CXX compiler is explicitly stated
@@ -22,7 +22,7 @@ You can run PETSc code directly in CLion, but you need to tell CMakeLists.txt wh
    ```
 
 2. Find the petsc library and link with your code.  Add this line for any day you would like and update the day to the correct project.
-   ```bash
+   ```cmake
    # Load the Required 3rd Party Libraries
    pkg_check_modules(PETSc REQUIRED IMPORTED_TARGET GLOBAL PETSc)
    target_link_libraries(day15 PUBLIC PkgConfig::PETSc)
