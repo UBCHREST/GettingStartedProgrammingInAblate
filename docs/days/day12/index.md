@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Day 12 - OO Design 
+title: Day 12 - Advanced C++
 nav_order: 12
 parent: Days
 ---
 
-Day 12 covers hour 22 of _C++ in 24 Hours_ and focuses on code design and analysis.  
+Day 12 (hours 19, 20, 21) is another grab-bag day covering topics from linked lists to the static keyword.  Pay special attention to the auto keyword and range-based for loops.  Both are used extensively in ABLATE.
 
 **Goals**
-1. Complete activities for Hour 22.
+1. Complete activities for Hours 19, 20 and 21.
 2. Commit these activities and push to your private CodingAblate Repo.
-3. Create an object diagram (similar to Figure 22.1 in  _C++ in 24 Hours_) for a new CFD code of your design.

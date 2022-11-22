@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Day 2 - Beginning C++
+title: Day 2 - Command Line
 nav_order: 2
 parent: Days
 ---
-Before going any further you should become familiar with your CLion IDE.  Read and understand at least the [CLion Quick start guide](https://www.jetbrains.com/help/clion/clion-quick-start-guide.html#learn-more).  With your local development environment up and running it is time to start exploring c/c++.  The first day consists of hours 1 and 2 in the _C++ in 24 Hours_ book.  These chapters will provide some historical context and an introduction to functions.  At the end of each Hour there is an Activities Section.  These activities should be completed in CLion and pushed to your private CodingAblate Repo.  This is done by creating a new day2 folder and updating the CMakeLists.txt file with any new files created in that folder.  This file tells the build system how to build your executables.  
+
+Before we get into programming it is important to be able to navigate different systems using a command line interface.  On most systems this will a bash type shell running on linux/unix/macOS.  There are a few different command line interfaces on Windows, but bash using [WSL2/Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/about) is the recommended configuration. Mastery of bash programming is not required to complete this course but simple navigational skills are recommended.  [linuxjourney.com](https://linuxjourney.com) provides an interactive tutorial on using Linux and the command line.
 
 **Goals**
-1. Complete activities for Hour 1 and Hour 2.
-2. Commit these activities and push to your private CodingAblate Repo.
+1. Complete the ["Getting Started"](https://linuxjourney.com/lesson/linux-history) tutorial on Linux Journey. 
+2. Complete the ["Command Line"](https://linuxjourney.com/lesson/the-shell) tutorial on Linux Journey.
+3. Become familiar with opening and using the command line on your system.  Try to reproduce some exercises from Linux Journey on your system.
