@@ -1,19 +1,13 @@
 ---
 layout: default
-title: Day 13 - Templates, Exceptions, & SharedPtrs 
+title: Day 13 - OO Design 
 nav_order: 13
 parent: Days
 ---
 
-Day 13 covers the last hours (23 and 24) of _C++ in 24 Hours_ and focuses templates and exception handling (both concepts used in ABLATE).  In addition to these hours you should introduce yourself to smart pointers (fundamental to ABLATE and the dependency injection framework).
-
-Smart Pointer Tutorial:
- - [Microsoft Smart Pointers](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp)
- - [Microsoft unique_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances)
- - [Microsoft shared_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-shared-ptr-instances)
- - [Microsoft weak_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-weak-ptr-instances)
+Day 13 covers hour 22 of _C++ in 24 Hours_ and focuses on code design and analysis.  
 
 **Goals**
-1. Complete activities for Hour 23 and 24.
-2. Update the SimpleEvent Program from day12 to replace all raw pointers with smart pointers.  There should be no new/delete keywords left.
-3. Commit these activities and push to your private CodingAblate Repo.
+1. Complete activities for Hour 22.
+2. Commit these activities and push to your private CodingAblate Repo.
+3. Create an object diagram (similar to Figure 22.1 in  _C++ in 24 Hours_) for a new CFD code of your design.

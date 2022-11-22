@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Day 10 - Inheritance and Polymorphism
+title: Day 10 - More C++
 nav_order: 10
 parent: Days
 ---
 
-Day 10 (hours 16, 17, 18) covers the important aspects of object-oriented programming including inheritance and polymorphism. These concepts form the basis of how different aspects of ABLATE interact and interoperate with each other.   
+Hours 14 and 15 of _C++ in 24 Hours_ covers additional c++ specific features.
 
 **Goals**
-1. Complete activities for Hours 16, 17, & 18.
+1. Complete activities for Hours 14 and 15.
 2. Commit these activities and push to your private CodingAblate Repo.

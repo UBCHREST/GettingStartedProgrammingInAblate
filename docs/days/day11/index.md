@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Day 11 - Advanced C++
+title: Day 11 - Inheritance and Polymorphism
 nav_order: 11
 parent: Days
 ---
 
-Day 11 (hours 19, 20, 21) is another grab-bag day covering topics from linked lists to the static keyword.  Pay special attention to the auto keyword and range-based for loops.  Both are used extensively in ABLATE.
+Day 11 (hours 16, 17, 18) covers the important aspects of object-oriented programming including inheritance and polymorphism. These concepts form the basis of how different aspects of ABLATE interact and interoperate with each other.   
 
 **Goals**
-1. Complete activities for Hours 19, 20 and 21.
+1. Complete activities for Hours 16, 17, & 18.
 2. Commit these activities and push to your private CodingAblate Repo.

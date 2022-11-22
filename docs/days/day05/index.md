@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Day 5 - Classes!
+title: Day 5 - Loops and Arrays
 nav_order: 5
 parent: Days
 ---
 
-The fifth day introduces the concept of classes in hours 8 and 9.  Day 8 introduces the general concepts of objects and classes while day 9 covers more advanced topics including const, interfaces, and classes within classes.  These topics are important for understanding the data and flow in ABLATE.  
+Day 5 consists of hours 6 and 7 in the _C++ in 24 Hours_ book and focuses on loops and arrays/strings.  
+Even if these concepts seems like a review if you are familiar with them, it is recommended to read and complete each section to strengthen c/c++ skills.  The end of section activities should be completed in CLion and pushed to your private CodingAblate Repo.  This is done by creating a new day5 folder and updating the CMakeLists.txt file with any new files created in that folder.
 
 **Goals**
-1. Complete activities for Hours 8 and 9.
+1. Complete activities for Hours 6 and 7.
 2. Commit these activities and push to your private CodingAblate Repo.

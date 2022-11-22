@@ -1,12 +1,19 @@
 ---
 layout: default
-title: Day 14 - PETSc
+title: Day 14 - Templates, Exceptions, & SharedPtrs 
 nav_order: 14
 parent: Days
 ---
 
-With the completion of the c/c++ background we pivot to learning about (PETSc)[https://petsc.org/release/].  Today try to install PETSc using the [ABLATE specific directions](https://ablate.dev/content/development/InstallingDependencies.html#install-petsc).  While installing review the [PETSc Manual](https://petsc.org/release/docs/manual/).  The manual will help you familiarize yourself with PETSC terminology.  
+Day 14 covers the last hours (23 and 24) of _C++ in 24 Hours_ and focuses templates and exception handling (both concepts used in ABLATE).  In addition to these hours you should introduce yourself to smart pointers (fundamental to ABLATE and the dependency injection framework).
+
+Smart Pointer Tutorial:
+ - [Microsoft Smart Pointers](https://docs.microsoft.com/en-us/cpp/cpp/smart-pointers-modern-cpp)
+ - [Microsoft unique_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-unique-ptr-instances)
+ - [Microsoft shared_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-shared-ptr-instances)
+ - [Microsoft weak_ptr Pointers](https://docs.microsoft.com/en-us/cpp/cpp/how-to-create-and-use-weak-ptr-instances)
 
 **Goals**
-1. Compile debug and optimized PETSc on your machine.
-2. Review the PETSc manual.
+1. Complete activities for Hour 23 and 24.
+2. Update the SimpleEvent Program from day13 to replace all raw pointers with smart pointers.  There should be no new/delete keywords left.
+3. Commit these activities and push to your private CodingAblate Repo.
